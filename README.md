@@ -1,6 +1,5 @@
 # Pair Finder Utility
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Finds integer pairs `(x, y)` satisfying constraints derived from multipliers and a threshold, via an easy-to-use web interface.
 
@@ -80,4 +79,4 @@ NUM_PAIRS_TARGET = 50 # Max number of pairs to display
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). Please see the LICENSE file for details.
+This project is licensed under the MIT Licence. 
