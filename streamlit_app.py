@@ -10,8 +10,8 @@ DEFAULT_MY = 2.0
 DEFAULT_THRESHOLD = 70
 DEFAULT_THRESHOLD_OPTION = "Specify Threshold" # "Specify Threshold" or "Calculate Minimum"
 
-X_MIN = 301
-Y_MIN = 301
+X_MIN = 500
+Y_MIN = 500
 X_MAX = 999
 Y_MAX = 999
 NUM_PAIRS_TARGET = 50 # Target number of pairs to display/sample
