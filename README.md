@@ -65,8 +65,8 @@ While the web app is ready to use, the underlying Python script (`app.py` or `pa
 
 ```python
 # --- Configuration ---
-X_MIN = 301 # Minimum allowed value for x
-Y_MIN = 301 # Minimum allowed value for y
+X_MIN = 500 # Minimum allowed value for x
+Y_MIN = 500 # Minimum allowed value for y
 X_MAX = 999 # Maximum allowed value for x
 Y_MAX = 999 # Maximum allowed value for y
 NUM_PAIRS_TARGET = 50 # Max number of pairs to display
